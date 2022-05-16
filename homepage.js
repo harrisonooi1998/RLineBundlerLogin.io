@@ -7,7 +7,7 @@ loginButton.addEventListener("click", (e) => {
     const username = loginForm.username.value;
     const password = loginForm.password.value;
 
-    if (username === "rlinebundler" && password === "hacking") {
+    if (username === "harrison" && password === "isawesome") {
         alert("You have successfully logged in.");
         // location.reload();
         window.location.href = 'https://harrisonooi1998.github.io/RLineBundler.io/'
